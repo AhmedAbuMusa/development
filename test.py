@@ -1,1 +1,1 @@
-print ("Hello from WSL and VS Code")
+print ("Hello from WSL and VS Code!")
